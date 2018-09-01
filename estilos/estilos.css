@@ -1,0 +1,107 @@
+body{
+    background-color: lightgrey;
+    margin: 0;
+    font-family: sans-serif
+}
+nav {
+    border-top: 2px solid rgb(226, 13, 13);
+    border-bottom: 5px solid rgb(243, 35, 35);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+}
+.logotipo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  
+}
+.logo {
+
+}
+
+.redes {
+    margin-right: 3px;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+.sociais{
+    width: 50px;
+    height: 50px;
+    border-radius: 0%;
+
+}
+.redondo {
+    border-radius: 50%;
+}
+img {
+    width: 100px;
+    height: 100px;
+    
+}
+header {
+    background-color: rgb(111, 111, 226);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.imgsheader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+h1 {
+    color: red;
+    font-size: 30pt;
+    font-family: 
+
+}
+footer 
+
+{
+    background-color: aquamarine;
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+    
+    
+}
+ aside {
+     position: fixed;
+     left: 0;
+     width:300px;
+     border-right: 4px dashed red;
+     height: 100vh;
+     padding: 15px;
+ }
+
+ section {
+     width: calc(100vw - 430px);
+     margin-left: 330px;
+     padding: 0 50px 0 30px;
+ }
+ footer img{
+     
+ }
+
+ .logotipo img{
+    width: 250px;
+    height: 250px;
+    display:     
+ }
+
+ .redes img{
+     width: 50px;
+     height: 50px;
+
+ }
